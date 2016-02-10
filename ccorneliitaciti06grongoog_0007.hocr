@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ccorneliitaciti06grongoog_0007.png"; bbox 0 0 1742 3000; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 574 1007 1041 1075">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 574 1007 1041 1075">
+     <span class='ocr_line' id='line_1_1' title="bbox 574 1007 1041 1075; baseline 0.021 -12"><span class='ocrx_word' id='word_1_1' title='bbox 574 1007 645 1064; x_wconf 70' lang='lat' dir='ltr'>In</span> <span class='ocrx_word' id='word_1_2' title='bbox 701 1007 927 1068; x_wconf 84' lang='lat' dir='ltr'><strong>VOL.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 984 1013 1041 1075; x_wconf 85' lang='grc' dir='ltr'>Ι.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 187 1177 1166 1262">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 187 1177 1166 1262">
+     <span class='ocr_line' id='line_1_2' title="bbox 187 1177 1166 1262; baseline -0.001 -22"><span class='ocrx_word' id='word_1_4' title='bbox 187 1185 298 1242; x_wconf 70' lang='lat' dir='ltr'>An</span> <span class='ocrx_word' id='word_1_5' title='bbox 312 1193 599 1240; x_wconf 59' lang='lat' dir='ltr'><strong>»utum</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 625 1177 783 1239; x_wconf 74' lang='lat' dir='ltr'>Libri</span> <span class='ocrx_word' id='word_1_7' title='bbox 803 1185 910 1240; x_wconf 84' lang='lat' dir='ltr'>sex</span> <span class='ocrx_word' id='word_1_8' title='bbox 930 1180 1166 1262; x_wconf 68' lang='lat' dir='ltr'>priores.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
